@@ -1,0 +1,5 @@
+Task2.txt
+
+JavaScript objects are data structures that store data as key-value pairs. 
+The key is a string, and the value can be any type of data, including another object.
+Objects are created using the new Object() constructor or the object literal syntax.
