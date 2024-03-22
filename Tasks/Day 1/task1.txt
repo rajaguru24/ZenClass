@@ -1,0 +1,15 @@
+Difference between HTTP1.1 vs HTTP2
+
+HTTP2 protocol
+
+Allows internet users to exchange informations.
+It reduces speeding up page loads.
+It used to send and receive more information at the same time.
+
+HTTP1.1 protocol
+
+It keeps all requests and response in plain text.
+It uses the binary framing layer to en
+capsulate in binary format.
+It takes more time to page load.
+It will reuse the information.
